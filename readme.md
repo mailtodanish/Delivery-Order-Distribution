@@ -1,5 +1,7 @@
 # Delivery Order in Django
 
+Based on pricing quotations provided by courier assign delivery order to courier to pick from warehouse and deliver on destination.
+
 ```python
 Status : in-progress
 ```
